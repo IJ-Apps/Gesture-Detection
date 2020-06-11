@@ -11,6 +11,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+//YOUTUBE TUTORIAL: https://youtu.be/aggS3zRjNDI
+//Above is the link for the quick YouTube tutorial on Gesture Detectors.
 public class MainActivity extends AppCompatActivity {
 
     Button button;
