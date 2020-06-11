@@ -5,6 +5,10 @@ import android.view.MotionEvent;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+
+//YOUTUBE TUTORIAL: https://youtu.be/aggS3zRjNDI
+//Above is the link for the quick YouTube tutorial on Gesture Detectors.
+
 //An example of getting an Activity to implement the GestureDetector interfaces. The below example implements 2 of them.
 class Example2 extends AppCompatActivity  implements GestureDetector.OnDoubleTapListener, GestureDetector.OnGestureListener {
 
